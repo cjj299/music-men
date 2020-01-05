@@ -30,7 +30,7 @@
     
     </i-card>
    </view>
- </i-panel>
+  </i-panel>
   </div>
 </template>
 
