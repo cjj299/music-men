@@ -51,10 +51,10 @@ export default {
         '/static/images/31.jpg',
          '/static/images/32.jpg',
       ],
-      indicatorDots: true,
-      autoplay: true,
-      interval: 5000,
-      duration: 1000,
+         indicatorDots: true,
+         autoplay: true,
+         interval: 5000,
+         duration: 1000,
 
     }
   },
