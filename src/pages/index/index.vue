@@ -7,11 +7,11 @@
       :duration="duration"
       style="height:200px"
     >
-     <block v-for="item in imgUrls" :key="item">
+      <block v-for="item in imgUrls" :key="item">
       <swiper-item>
         <image :src="item" style="width:100%;"/>
       </swiper-item>
-    </block>
+     </block>
    </swiper>
     <i-grid i-class="no-border">
     <i-grid-item @click="goType(grid)" v-for="grid in grids"  :key="grid" i-class="no-border">
